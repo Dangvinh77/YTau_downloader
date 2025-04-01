@@ -1,0 +1,24 @@
+{
+  "name": "ytau_downloader",
+  "version": "1.0.0",
+  "description": "An basic application for download mp3 audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dangvinh77/YTau_downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dangvinh77/YTau_downloader/issues"
+  },
+  "homepage": "https://github.com/Dangvinh77/YTau_downloader#readme",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
