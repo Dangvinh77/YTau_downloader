@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Custom folders,files
+/downloads
+/ffmpeg-2025-03-31-git-35c091f4b7-full_build.7z
+/ffmpeg

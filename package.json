@@ -13,12 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Dangvinh77/YTau_downloader/issues"
   },
   "homepage": "https://github.com/Dangvinh77/YTau_downloader#readme",
   "dependencies": {
-    "ytdl-core": "^4.11.5"
+    "yt-dlp-exec": "^1.0.2",
+    "ytdlp-nodejs": "^2.0.5"
   }
 }
